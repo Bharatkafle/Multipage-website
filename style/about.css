@@ -62,7 +62,8 @@ margin: 1.6rem 0 2.5rem;
 }
 .team h4{
 	text-align: center;
-	margin-bottom: 4rem;
+	margin-bottom: 50px;
+	
 }
 .team_member:hover{
 	background: transparent;
@@ -80,6 +81,7 @@ margin: 1.6rem 0 2.5rem;
 }
 .team_member-info p{
 	color: var(--color-light);
+	font-size: 10px;
 }
 .team_member-socials{
 	position: absolute;
